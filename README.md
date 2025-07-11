@@ -31,7 +31,7 @@ A 4-way smart traffic light controller designed using a Moore FSM in SystemVeril
 ### 🧠 FSM Waveform
 Shows the FSM behavior across time with transitions between green/yellow/red lights:
 
-![FSM Waveform](waveform.png)
+![FSM Waveform](waveform1.png)
 
 ---
 
