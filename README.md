@@ -31,7 +31,7 @@ A 4-way smart traffic light controller designed using a Moore FSM in SystemVeril
 ### 🧠 FSM Waveform
 Shows the FSM behavior across time with transitions between green/yellow/red lights:
 
-![FSM Waveform](docs/waveform.png)
+![FSM Waveform](outputs/waveform.png)
 
 ---
 
@@ -39,7 +39,7 @@ Shows the FSM behavior across time with transitions between green/yellow/red lig
 
 Console output when pedestrian request is triggered:
 
-![Pedestrian Console](docs/pedestrian.png)
+![Pedestrian Console](outputs/pedestrian.png)
 
 ---
 
@@ -47,4 +47,4 @@ Console output when pedestrian request is triggered:
 
 Console debug output when an emergency vehicle is detected:
 
-![Emergency Vehicle Console](docs/emergencyvehicle.png)
+![Emergency Vehicle Console](outputs/emergencyvehicle.png)
