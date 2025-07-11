@@ -43,7 +43,7 @@ Perfect! Here's the **same waveform explanation wrapped in a collapsible section
 
 ### 🖼️ **FSM Waveform Overview**
 
-![FSM Waveform](docs/waveform.png)
+![FSM Waveform](waveform1.png)
 
 This waveform illustrates the behavior of the **4-way Smart Traffic Light Controller** over a span of 0 to 990 ns.
 
@@ -126,7 +126,6 @@ To match values:
 </details>
 
 ---
-![FSM Waveform](waveform1.png)
 
 ---
 
