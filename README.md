@@ -35,6 +35,7 @@ Perfect! Here's the **same waveform explanation wrapped in a collapsible section
 ---
 
 ### 📸 Simulation Outputs
+![FSM Waveform](waveform1.png)
 
 <details>
 <summary>📊 <strong>FSM Waveform Explanation</strong> (Click to expand)</summary>
@@ -43,7 +44,6 @@ Perfect! Here's the **same waveform explanation wrapped in a collapsible section
 
 ### 🖼️ **FSM Waveform Overview**
 
-![FSM Waveform](waveform1.png)
 
 This waveform illustrates the behavior of the **4-way Smart Traffic Light Controller** over a span of 0 to 990 ns.
 
